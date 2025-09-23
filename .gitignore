@@ -1,0 +1,14 @@
+# Compiler files
+cache/
+out/
+
+# Ignores development broadcast logs
+broadcast
+.vscode
+# Docs
+docs/
+.claude
+.wake
+
+# Dotenv file
+.env
